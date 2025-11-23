@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/src/RIT.WebApi/appsettings.Development.json
+/src/RIT.WebApi/appsettings.json
+/src/rit.webapp/package-lock.json
+/src/rit.webapp/package.json
